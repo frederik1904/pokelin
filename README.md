@@ -19,7 +19,7 @@ If you want to see a feature, please create an issue.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-*Remember that your AmazingFeature should be implemented using Test-Driven Development!
+*Remember that your AmazingFeature should be implemented using Test-Driven Development!*
 
 ## Authors
 These are the authors and main contributors of the project.
