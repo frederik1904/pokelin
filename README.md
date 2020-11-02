@@ -19,6 +19,8 @@ If you want to see a feature, please create an issue.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+*Remember that your AmazingFeature should be implemented using Test-Driven Development!
+
 ## Authors
 These are the authors and main contributors of the project.
 * **Anders B. Clausen** - [anbclausen](https://github.com/anbclausen)
@@ -28,5 +30,8 @@ These are the authors and main contributors of the project.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Literature 
+* **Flexible, Reliable Software** Using Patterns and Agile Development, CRC Press 2010, Henrik Bærbak Christensen [CRC Press / FRS](http://www.crcpress.com/product/isbn/9781420093629)
+
 ## Acknowledgments
-No acknowledgments for now.
+* **Henrik Bærbak Christensen** of the Department of Computer Science at Aarhus University, who taught us the wonders of TDD and many, many war stories from the industry - [baerbak.com](http://www.baerbak.com/) / [AU portal](https://pure.au.dk/portal/da/hbc@cs.au.dk)
