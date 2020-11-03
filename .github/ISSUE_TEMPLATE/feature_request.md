@@ -3,7 +3,6 @@ name: Feature request
 about: Suggest an idea for this project
 title: 'Feature Request(s): x'
 labels: 'enhancement'
-assignees: ''
 
 ---
 
