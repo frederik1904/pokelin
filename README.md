@@ -10,8 +10,9 @@ Empty for now.
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-If you want to contribute to the project please follow the following instructions.
-If you want to see a feature, please create an issue.
+If you want to contribute to the project, please create an issue explaining what features you would like to contribute with. If you simply want to see a feature, you can also create an issue explaining the feature you want to see in PokéLin.
+
+When a given issue has been assigned to you, please follow the instructions below.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -27,6 +28,8 @@ If you want to see a feature, please create an issue.
 3. Implement the new feature
 4. Run all the tests and see them all succeed
 5. Refactor code
+
+Please commit after each TDD rhythm when working on this project.
 
 ## Authors
 These are the authors and main contributors of the project.
