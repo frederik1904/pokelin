@@ -6,6 +6,9 @@ import framework.Types.*
 import framework.strategy.MultiplierStrategy
 
 class OriginalMultiplierStrategy : MultiplierStrategy {
+    /**
+     * This maps from attacker, defender to the effectiveness, this map only contains non normal effectiveness levels
+     */
     private val effectivenessMap = mapOf(
         Pair(NORMAL, ROCK) to Weak, Pair(NORMAL, GHOST) to Ineffective, Pair(NORMAL, STEEL) to Weak,
 
