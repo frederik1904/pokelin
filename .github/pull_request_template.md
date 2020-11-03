@@ -5,6 +5,6 @@
 Please provide any useful comments about the PR.
 
 # I have
-- Been assigned to this issue
-- Used TDD
-- Commited after each TDD rhythm
+- [ ] Been assigned to this issue
+- [ ] Used TDD
+- [ ] Commited after each TDD rhythm
