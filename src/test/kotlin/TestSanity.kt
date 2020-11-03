@@ -1,12 +1,14 @@
 package test.kotlin
 
-import junit.framework.Assert.assertEquals
+import org.hamcrest.CoreMatchers.equalTo
+import org.hamcrest.MatcherAssert.assertThat
+import org.hamcrest.core.Is
 import org.junit.Test
 
 
 class TestSanity {
     @Test
     fun twoPlusOneEqualsThree() {
-        assertEquals("2+1 was not equal 3",3,2+1)
+        assertThat(2 + 1, Is(equalTo(3)))
     }
 }
