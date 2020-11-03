@@ -5,6 +5,10 @@ import framework.Types
 import framework.Types.*
 import framework.strategy.MultiplierStrategy
 
+/**
+ * This strategy is computed from this imgae:
+ * https://2.bp.blogspot.com/-H4BnLpEKS94/VF62mw1fm4I/AAAAAAAAAAk/oezpFub4UCw/s1600/types.jpg
+ */
 class OriginalMultiplierStrategy : MultiplierStrategy {
     /**
      * This maps from attacker, defender to the effectiveness, this map only contains non normal effectiveness levels
