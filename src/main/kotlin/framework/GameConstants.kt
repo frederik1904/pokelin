@@ -17,5 +17,5 @@ enum class Types(val type: String) {
 }
 
 enum class EffectLevel(val multiplier: Double) {
-    Inefective(0.0), Weak(0.5), Normal(1.0), Strong(2.0);
+    Ineffective(0.0), Weak(0.5), Normal(1.0), Strong(2.0);
 }
