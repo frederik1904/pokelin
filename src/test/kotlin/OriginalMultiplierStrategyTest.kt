@@ -7,7 +7,8 @@ import org.hamcrest.core.Is
 import org.junit.Test
 
 class OriginalMultiplierStrategyTest {
-    val multiplierStrategy = OriginalMultiplierStrategy();
+    private val multiplierStrategy = OriginalMultiplierStrategy()
+
     @Test
     fun shouldBeStrongAgainst() {
         assertThat(multiplierStrategy.multiplier(Types.WATER, Types.ROCK), Is(equalTo(EffectLevel.Strong)))

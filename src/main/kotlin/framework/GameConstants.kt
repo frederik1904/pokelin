@@ -1,11 +1,11 @@
 package framework
 
 object GameConstants {
-    val HashCodePrimeValue: Int = 337213
+    const val HashCodePrimeValue: Int = 337213
 
 }
 
-enum class Types(val type: String) {
+enum class Types(private val type: String) {
     BUG("Bug"), DARK("Dark"), DRAGON("Dragon"), ELECTRIC("Electric"), FAIRY("Fairy"),
     FIGHTING("Fighting"), FIRE("Fire"), FLYING("Flying"), GHOST("Ghost"), GRASS("Grass"),
     GROUND("Ground"), ICE("Ice"), NORMAL("Normal"), POISON("Poison"), PSYCHIC("Psychic"),
