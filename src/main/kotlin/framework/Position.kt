@@ -7,7 +7,7 @@ package framework
  */
 class Position(var row: Int, var col: Int) {
     override fun hashCode(): Int {
-        return GameConstants.HashCodePrimeValue * row + col;
+        return GameConstants.HashCodePrimeValue * row + col
     }
 
     override fun toString(): String {

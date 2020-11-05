@@ -1,9 +1,7 @@
 package standard
 
-import framework.Types
-
 fun main() {
-    GameImpl().start();
+    GameImpl().start()
 }
 class GameImpl {
     fun start() {
