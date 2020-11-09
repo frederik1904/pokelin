@@ -10,7 +10,6 @@ Please provide any useful details about your PR.
 - [ ] Commited after each TDD rhythm
 
 # Steps to verify
-1. [ ] Run tests
-2. [ ] See that none fail
-3. [ ] ???
-4. [ ] Profit
+1. [ ] Do x
+2. [ ] Notice y
+3. [ ] Etc.
